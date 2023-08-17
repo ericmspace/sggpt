@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 from flask import Flask, render_template, request
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 
-# In[2]:
+# In[ ]:
 
 
 app = Flask(__name__)
