@@ -6,7 +6,7 @@
 
 from flask import Flask, render_template, request
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 # In[ ]:
